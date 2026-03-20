@@ -6,22 +6,22 @@ Welcome to my GitHub! I'm a university student who loves building efficient, sca
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-* 🌱 **Currently learning:** [Python, C++, CSS]
-* 👯 **Looking to collaborate on:** [Open-source C++ projects or data visualization tools]
-* ⚡ **Fun fact:** [I love fiction and video games and would love to be part of a creative group]
+*  **Currently learning:** [Python, C++, CSS]
+*  **Looking to collaborate on:** [Open-source C++ projects or data visualization tools]
+*  **Fun fact:** [I love fiction and video games and would love to be part of a creative group]
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | C++, Python |
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 
 <div align="center">
@@ -31,6 +31,6 @@ Welcome to my GitHub! I'm a university student who loves building efficient, sca
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 * **LinkedIn:** https://www.linkedin.com/in/ilia-tseka-a38422368/
