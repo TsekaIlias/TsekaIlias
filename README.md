@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Ilias!!!
 
-<!--
-**TsekaIlias/TsekaIlias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ** Software Engineer | C++ & Python Enthusiast | Coding Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a university student who loves building efficient, scalable, and impactful solutions. Whether I'm diving deep into memory management in C++ or crafting intuitive user interfaces, I'm always looking for the next technical challenge to conquer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* 🌱 **Currently learning:** [Python, C++, CSS]
+* 👯 **Looking to collaborate on:** [Open-source C++ projects or data visualization tools]
+* ⚡ **Fun fact:** [I love fiction and video games and would love to be part of a creative group]
+
+---
+
+## 🛠️ My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C++, Python |
+---
+
+## 📊 GitHub Stats
+
+*(Note: Replace `YOUR_GITHUB_USERNAME` in the links below with your actual username to make these dynamically update!)*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TsekaIlias&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsekaIlias&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+* **LinkedIn:** https://www.linkedin.com/in/ilia-tseka-a38422368/
