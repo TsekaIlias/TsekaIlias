@@ -23,7 +23,6 @@ Welcome to my GitHub! I'm a university student who loves building efficient, sca
 
 ## 📊 GitHub Stats
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the links below with your actual username to make these dynamically update!)*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TsekaIlias&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
