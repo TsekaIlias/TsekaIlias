@@ -1,6 +1,6 @@
 # Hi there, I'm Ilias!!!
 
-> ** Software Engineer | C++ & Python Enthusiast | Coding Enthusiast**
+ **Software Engineer | C++ & Python Enthusiast | Coding Enthusiast**
 
 Welcome to my GitHub! I'm a university student who loves building efficient, scalable, and impactful solutions. Whether I'm diving deep into memory management in C++ or crafting intuitive user interfaces, I'm always looking for the next technical challenge to conquer.
 
@@ -21,15 +21,6 @@ Welcome to my GitHub! I'm a university student who loves building efficient, sca
 | **Languages** | C++, Python |
 ---
 
-##  GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TsekaIlias&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsekaIlias&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
 
 ##  Let's Connect!
 
